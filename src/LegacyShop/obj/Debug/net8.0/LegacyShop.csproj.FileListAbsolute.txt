@@ -9,3 +9,15 @@
 /Users/heshani/Documents/0. XAMK/Exercise-7/src/LegacyShop/obj/Debug/net8.0/refint/LegacyShop.dll
 /Users/heshani/Documents/0. XAMK/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.pdb
 /Users/heshani/Documents/0. XAMK/Exercise-7/src/LegacyShop/obj/Debug/net8.0/ref/LegacyShop.dll
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/bin/Debug/net8.0/LegacyShop.deps.json
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/bin/Debug/net8.0/LegacyShop.dll
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/bin/Debug/net8.0/LegacyShop.pdb
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.AssemblyInfoInputs.cache
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.AssemblyInfo.cs
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.csproj.CoreCompileInputs.cache
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.sourcelink.json
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.dll
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/refint/LegacyShop.dll
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/LegacyShop.pdb
+/Users/heshani/Documents/0. XAMK/07/Exercise-7/src/LegacyShop/obj/Debug/net8.0/ref/LegacyShop.dll
